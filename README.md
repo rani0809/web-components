@@ -1,4 +1,4 @@
-# Welcome to Web Component Basics 🙏
+# Welcome to Web Component Basics
 
 ## ❓ what it is
 
